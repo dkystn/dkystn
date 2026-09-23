@@ -84,9 +84,13 @@
 
 <br />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dkystn/dkystn/output/snake.svg" alt="Snake animation" width="100%" />
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/dkystn/dkystn/output/snake.svg"
+    alt="Snake animation"
+    width="100%"
+  />
+</p>
 
 ---
 
